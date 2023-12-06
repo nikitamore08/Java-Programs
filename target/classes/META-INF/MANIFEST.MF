@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Class-Path: slf4j-api-2.0.9.jar httpclient-4.5.14.jar httpcore-4.4.16.ja
+ r commons-logging-1.2.jar commons-codec-1.11.jar spring_June14-0.0.1-SN
+ APSHOT.jar spring-core-5.3.27.jar spring-jcl-5.3.27.jar spring-context-
+ 5.3.27.jar spring-aop-5.3.27.jar spring-beans-5.3.27.jar spring-express
+ ion-5.3.27.jar Spring_June20-0.0.1-SNAPSHOT.jar
+Main-Class: com.sample.CalculatorApplication
+Created-By: Maven Integration for Eclipse
+
